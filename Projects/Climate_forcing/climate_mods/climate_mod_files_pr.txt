@@ -1,0 +1,10 @@
+pr_Amon_inmcm4_rcp85_r1i1p1_200601-210012.nc
+pr_Amon_MIROC5_rcp85_r1i1p1_200601-210012.nc
+pr_Amon_CNRM-CM5_rcp85_r1i1p1_200601-205512.nc
+pr_Amon_CanESM2_rcp85_r1i1p1_200601-210012.nc
+pr_Amon_NorESM1-M_rcp85_r1i1p1_200601-210012.nc
+pr_Amon_CSIRO-Mk3-6-0_rcp85_r1i1p1_200601-210012.nc
+pr_Amon_ACCESS1-3_rcp85_r1i1p1_200601-210012.nc
+pr_Amon_MRI-CGCM3_rcp85_r1i1p1_200601-210012.nc
+pr_Amon_CNRM-CM5_rcp85_r1i1p1_205601-210012.nc
+pr_Amon_IPSL-CM5A-MR_rcp85_r1i1p1_200601-210012.nc
