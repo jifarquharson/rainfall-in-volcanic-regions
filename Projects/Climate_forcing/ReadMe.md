@@ -46,8 +46,18 @@ Corresponding author: jifarq89@googlemail.com
 |
 +-- Holocene_volcanoes.csv
 +-- Holocene_eruptions.csv
-
-
+|
++-- data
+|   |
+|   +-- ACCESS1.3_fmr.npy 
+|   +-- CNRM-CM5_fmr.npy 
+|   +-- CSIRO-Mk3-6-0_fmr.npy
+|   +-- CanESM2_fmr.npy   
+|   +-- IPSL-CM5A-MR_fmr.npy
+|   +-- MIROC5_fmr.npy
+|   +-- MRI-CGCM3_fmr.npy
+|   +-- NorESM1-ME_fmr.npy
+|   +-- inmcm4_fmr.npy
 
 
 ```
