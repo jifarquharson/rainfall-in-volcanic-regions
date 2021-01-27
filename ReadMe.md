@@ -20,6 +20,7 @@ The directory tree should be structured something like this:
 .
 |
 +-- __Climate_Forcing_Volcanic_Hazards.ipynb
++-- __Climate_Forcing_Volcanic_Hazards_cache.ipynb
 +-- checkfile.txt
 +-- climate_mods
 |   |
