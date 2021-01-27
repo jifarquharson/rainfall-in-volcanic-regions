@@ -4,6 +4,14 @@ Rosenstiel School of Marine and Atmospheric Science, University of Miami, Miami,
 
 Corresponding author: jifarq89@googlemail.com
 
+### This notebook performs all the analysis and plots figures for the research article _Volcanic hazard exacerbated by global warming–driven increase in heavy rainfall_ [submitted]. 
+
+#### Primary data are from nine general circulation models, obtained through Earth System Grid Federation servers, in particular the node hosted by the Lawrence Livermore National Laboratory https://esgf-node.llnl.gov/search/cmip5/.
+
+The .txt files 'climate_mod_files_pr.txt' and 'climate_mod_files_ta.txt' list the files required for the following analyses. To run these code blocks correctly, please ensure that all correct files are downloaded into a directory called ```climate_mods``` in your working directory.
+
+The directory tree should be structured something like this:
+
 ```
 .
 |
@@ -58,6 +66,6 @@ Corresponding author: jifarq89@googlemail.com
 |   +-- MRI-CGCM3_fmr.npy
 |   +-- NorESM1-ME_fmr.npy
 |   +-- inmcm4_fmr.npy
-
-
+|
++-- README.md
 ```
