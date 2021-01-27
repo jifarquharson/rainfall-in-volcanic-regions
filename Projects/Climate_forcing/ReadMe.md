@@ -73,6 +73,7 @@ The directory tree should be structured something like this:
 |   +-- inmcm4_fmr.npy
 |   +-- regionalGradients.pkl
 |   +-- subregionalGradients.pkl
+|   +-- rain_url.txt
 |
 +-- README.md
 ```
