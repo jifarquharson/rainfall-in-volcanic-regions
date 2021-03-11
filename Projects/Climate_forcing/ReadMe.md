@@ -55,6 +55,10 @@ The directory tree should be structured something like this:
 |   +-- fig3.pdf
 |   +-- fig4.png
 |   +-- fig4.pdf
+|   +-- ext_data_fig1.png
+|   +-- ext_data_fig1.pdf
+|   +-- ext_data_fig2.png
+|   +-- ext_data_fig2.pdf
 |
 |
 +-- Holocene_volcanoes.csv
@@ -74,6 +78,13 @@ The directory tree should be structured something like this:
 |   +-- regionalGradients.pkl
 |   +-- subregionalGradients.pkl
 |   +-- rain_url.txt
+|   +-- magnetic_susceptibility.csv
+|   +-- GISP2.csv
+|   +-- speleothem-data.csv
+|   +-- standardized_precipitation.csv
+|   +-- plawangan_rainfall.csv
+|   +-- plawangan_rsam.csv
+|   +-- winangun_rainfall.csv
 |
 +-- README.md
 ```
