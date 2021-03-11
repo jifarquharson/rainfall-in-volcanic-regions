@@ -75,7 +75,7 @@ The directory tree should be structured something like this:
 |   +-- MRI-CGCM3_fmr.npy
 |   +-- NorESM1-ME_fmr.npy
 |   +-- inmcm4_fmr.npy
-|   +-- regionalGradients.pkl
+|   +-- regionalGradientss.pkl
 |   +-- subregionalGradients.pkl
 |   +-- rain_url.txt
 |   +-- magnetic_susceptibility.csv
@@ -85,6 +85,7 @@ The directory tree should be structured something like this:
 |   +-- plawangan_rainfall.csv
 |   +-- plawangan_rsam.csv
 |   +-- winangun_rainfall.csv
+|   +-- GVP_webpages_20210311.tar.gz
 |
 +-- README.md
 ```
