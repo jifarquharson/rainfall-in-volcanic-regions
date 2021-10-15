@@ -1,2 +1,2 @@
 # rainfall-in-volcanic-regions
-Series a scripts for investigating rainfall in volcanic environments
+Series of scripts for investigating rainfall in volcanic environments
