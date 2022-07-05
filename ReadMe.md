@@ -8,7 +8,7 @@ Corresponding author: jifarq89@googlemail.com
 
 #### Primary data are from nine general circulation models, obtained through Earth System Grid Federation servers, in particular the node hosted by the Lawrence Livermore National Laboratory https://esgf-node.llnl.gov/search/cmip5/.
 
-The .txt files 'climate_mod_files_pr.txt' and 'climate_mod_files_ta.txt' list the files required for the following analyses. To run these code blocks correctly, please ensure that all correct files are downloaded into a directory called ```climate_mods``` in your working directory.
+The .txt files 'climate_mod_files_pr.txt' and 'climate_mod_files_ta.txt' in the ```rcp85``` folder list the files required for the following analyses. To run these code blocks correctly, please ensure that all correct files are downloaded into a directory called ```climate_mods``` in your working directory.
 
 #### Some notes:
 1. I've used Fabio Crameri's colourmaps ```vik``` and ```roma```. These are available at http://www.fabiocrameri.ch/colourmaps.php. Citation: Crameri, F., 2018. Scientific colour-maps. Zenodo. doi: http://doi.org/10.5281/zenodo.1243862.
@@ -24,16 +24,44 @@ The directory tree should be structured something like this:
 +-- checkfile.txt
 +-- climate_mods
 |   |
-|   +-- climate_mod_files_pr.txt
-|   +-- climate_mod_files_ta.txt
-|   +-- pr_Amon_ACCESS1-3_rcp85_r1i1p1_200601-210012.nc
-|   :
-|   :
-|   +-- pr_Amon_NorESM1-M_rcp85_r1i1p1_200601-210012.nc
-|   +-- ta_Amon_ACCESS1-3_rcp85_r1i1p1_200601-205512.nc
-|   :
-|   :
-|   +-- ta_Amon_NorESM1-M_rcp85_r1i1p1_200601-210012.nc
+|   +--rcp85
+|   |  |
+|   |  +-- climate_mod_files_pr.txt
+|   |  +-- climate_mod_files_ta.txt
+|   |  +-- pr_Amon_ACCESS1-3_rcp85_r1i1p1_200601-210012.nc
+|   |  :
+|   |  :
+|   |  +-- pr_Amon_NorESM1-M_rcp85_r1i1p1_200601-210012.nc
+|   |  +-- ta_Amon_ACCESS1-3_rcp85_r1i1p1_200601-205512.nc
+|   |  :
+|   |  :
+|   |  +-- ta_Amon_NorESM1-M_rcp85_r1i1p1_200601-210012.nc
+|   |
+|   +--rcp45
+|   |  |
+|   |  +-- climate_mod_files_pr.txt
+|   |  +-- climate_mod_files_ta.txt
+|   |  +-- pr_Amon_ACCESS1-3_rcp45_r1i1p1_200601-210012.nc
+|   |  :
+|   |  :
+|   |  +-- pr_Amon_NorESM1-M_rcp45_r1i1p1_200601-210012.nc
+|   |  +-- ta_Amon_ACCESS1-3_rcp45_r1i1p1_200601-205512.nc
+|   |  :
+|   |  :
+|   |  +-- ta_Amon_NorESM1-M_rcp45_r1i1p1_200601-210012.nc
+|   |
+|   +--rcp26
+|   |  |
+|   |  +-- climate_mod_files_pr.txt
+|   |  +-- climate_mod_files_ta.txt
+|   |  +-- pr_Amon_CanESM2_rcp26_r1i1p1_200601-210012.ncnc
+|   |  :
+|   |  :
+|   |  +-- pr_Amon_NorESM1-M_rcp26_r1i1p1_200601-210012.nc
+|   |  +-- ta_Amon_CanESM2_rcp26_r1i1p1_200601-210012.nc
+|   |  :
+|   |  :
+|   |  +-- ta_Amon_NorESM1-M_rcp26_r1i1p1_200601-210012.nc
 |   +-- ScientificColourMaps6
 |       |
 |       +-- +LICENCE.pdf
